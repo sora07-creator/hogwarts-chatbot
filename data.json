@@ -1,0 +1,75 @@
+ 
+ {
+    "introduction": "Students of New Uzbekistan University (NewUU) are thrilled to announce the expansion of the 'Hogwarts Summer School,' a unique program designed to immerse secondary school students and university students into research.",
+    "goals": "Develop research skills, build networking, and cultivate future leaders through interactive workshops and a vibrant community at Hogwarts Summer School.",
+    "milestones": "Applications open autumn 2024, selection in winter 2025, mentoring in spring, camp in August 2025.",
+    "student selection": "The selection process includes essay submission, case study, and interview, starting mid April until early June.",
+    "academic program": "Focuses on Software Technologies, Building Institutions, Ecology, Education, and runs online from March to May.",
+    "social activities": "Quidditch tournaments, mythical beasts care, and workshops to improve teamwork during the one-week camp in August.",
+    "budget": "About $87 per participant, max 200 participants.",
+    "timeline_structure": "The Academic Part will start from early March till mid-May and will consist of 12 weeks of online sessions based on SPRINT methodology (AGILE theory).",
+    "social_engagement_activities": {
+      "timeline": "Main social activities during the 1-week camp in early August at Renaissance Camp near Tashkent.",
+      "structure": [
+        "Quidditch Tournaments: Engage in thrilling matches testing teamwork and strategy.",
+        "Care of Mythical Beasts: Interactive exhibits and guest lectures about magical creatures and conservation.",
+        "Charms for Collaboration: Workshops to improve communication and teamwork skills."
+      ]
+    },
+    "admission_help": {
+      "description": "To join the Hogwarts Summer School, students go through a 3-stage selection process:",
+      "stages": [
+        {
+          "stage": 1,
+          "title": "Submit a short essay and CV",
+          "details": "Introduce yourself and explain your motivation."
+        },
+        {
+          "stage": 2,
+          "title": "Complete a case study",
+          "details": "Demonstrate your research skills with a practical task."
+        },
+        {
+          "stage": 3,
+          "title": "Attend an interview",
+          "details": "Answer creative questions about your experiences and behavior."
+        }
+      ],
+      "tips": [
+        "Choose projects that match your strengths and interests.",
+        "Prepare by practicing research and problem-solving skills.",
+        "Be yourself and show your passion during the interview."
+      ],
+      "contact": "For more information, visit the Hogwarts Telegram channel or contact the admission office."
+    },
+    "statistics": "Website https://hogwarts.streamlit.app contains demographic and applicant region data, but is under constant development.",
+    "main_initiator": {
+      "name": "New Uzbekistan University",
+      "support": [
+        "Expert support (professors and mentors)",
+        "Platform (advertisement of the camp)",
+        "Financial support (presents, accommodation)",
+        "Transportation (bus & car for field trips)",
+        "Secretary support (documentation and financial records)"
+      ],
+      "founders": ["Fahriddin Hayitov", "Nargis Kholmamatova", "Fyodor Amanov"],
+      "acting_organizers": ["Fahriddin Hayitov", "Nargis Kholmamatova"]
+    },
+    "contact_information": {
+      "phone": {
+        "school": "+998 93-755-77-52",
+        "university": "+998 71-202-41-11"
+      },
+      "email": {
+        "school": "schoolinfo@newuu.uz",
+        "university": "info@newuu.uz"
+      },
+      "social_media": {
+        "website": "https://newuu.uz/en/events/hogwarts-summer-school-2025-research-camp",
+        "telegram": "https://t.me/Hogwarts_NewUU",
+        "youtube": "https://youtube.com/@campofnewuzbekistanuniversity?si=urxADDbMEVI5AP4_",
+        "instagram": "http://instagram.com/hogwarts_newuu/"
+      }
+    }
+  }
+  
